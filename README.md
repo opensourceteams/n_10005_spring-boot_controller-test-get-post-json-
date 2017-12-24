@@ -1,6 +1,7 @@
 # n_10005_spring-boot_controller-test(get、post、json、请求)
 - spring-boot 单元测试 controller
 - 请求的方式有(get、port、json)
+- 视频地址: https://www.youtube.com/watch?v=R60EBNblFsg
 
 ## 控制层
 ### get 、post 请求方式，接收字符串参数 get 、post 请求方式，接收字符串参数

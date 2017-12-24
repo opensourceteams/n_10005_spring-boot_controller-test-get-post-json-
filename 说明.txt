@@ -1,0 +1,2 @@
+).启动类 main
+  com.opensourceteam.modules.business.sample.controller.SampleController.main
